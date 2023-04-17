@@ -1,0 +1,10 @@
+cat y | awk -F "|" '{print " { \n \"Date\":\"" $1 "\", \n \"Symbol\":\"" $2 "\", \n \"Name\":\"" $3 "\", \n \"Price\":\"" $4 "\", \n \"Rank\":\"" $5 "\" \n },"}'
+:1,$s/<td><\/td>//g
+:1,$s/<td>start<\/td>/<table id=\"table_id\"> \n<tr> \n<th>Date<\/td> \n<th>Symbol<\/td> \n<th>Name<\/td> \n<th>Price<\/td> \n<th>Rank<\/th> \n<tr>
+:1,$s/<tr>end<\/td>/<\/table> \n<br> \n<br>
+:1,$s/<td>1-Strong Buy/<td class=\"y_n\">1-Strong Buy
+:1,$s/<td>2-Buy/<td class=\"y_n\">2-Buy
+:1,$s/<td>3-Hold/<td class=\"y_n\">3-Hold
+:1,$s/<td>4-Sell/<td class=\"y_n\">4-Sell
+:1,$s/<td>5-Strong Sell/<td class=\"y_n\">5-Strong Sell
+

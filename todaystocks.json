@@ -1,0 +1,3523 @@
+[
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AAL", 
+        "Name":"American Airlines - AAL", 
+        "Price":"13.0", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AAP", 
+        "Name":"Advance Auto Parts - AAP", 
+        "Price":"121.34", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AAPL", 
+        "Name":"Apple - AAPL", 
+        "Price":"160.1", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ABBV", 
+        "Name":"AbbVie - ABBV", 
+        "Price":"162.36", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ABC", 
+        "Name":"AmerisourceBergen - ABC", 
+        "Price":"165.42", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ABT", 
+        "Name":"Abbott Laboratories - ABT", 
+        "Price":"102.56", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ACGL", 
+        "Name":"Arch Capital Group - ACGL", 
+        "Price":"70.23", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ACN", 
+        "Name":"Accenture - ACN", 
+        "Price":"283.76", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"A", 
+        "Name":"Agilent Technologies - A", 
+        "Price":"138.36", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ADBE", 
+        "Name":"Adobe - ADBE", 
+        "Price":"369.89", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ADI", 
+        "Name":"Analog Devices - ADI", 
+        "Price":"187.29", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ADM", 
+        "Name":"Archer Daniels Midland - ADM", 
+        "Price":"81.11", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ADP", 
+        "Name":"Automatic Data Processing - ADP", 
+        "Price":"215.61", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ADSK", 
+        "Name":"Autodesk - ADSK", 
+        "Price":"193.16", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AEE", 
+        "Name":"Ameren - AEE", 
+        "Price":"89.97", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AEP", 
+        "Name":"American Electric Power - AEP", 
+        "Price":"94.26", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AES", 
+        "Name":"AES - AES", 
+        "Price":"25.31", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AFL", 
+        "Name":"Aflac - AFL", 
+        "Price":"65.98", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AIG", 
+        "Name":"American International Group - AIG", 
+        "Price":"51.32", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AIZ", 
+        "Name":"Assurant - AIZ", 
+        "Price":"117.17", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AJG", 
+        "Name":"Arthur J. Gallagher & Co. - AJG", 
+        "Price":"198.27", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AKAM", 
+        "Name":"Akamai Technologies - AKAM", 
+        "Price":"81.18", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ALB", 
+        "Name":"Albemarle - ALB", 
+        "Price":"201.7", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ALGN", 
+        "Name":"Align Technology - ALGN", 
+        "Price":"332.25", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ALK", 
+        "Name":"Alaska Air Group - ALK", 
+        "Price":"41.98", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ALL", 
+        "Name":"Allstate - ALL", 
+        "Price":"116.08", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ALLE", 
+        "Name":"Allegion - ALLE", 
+        "Price":"101.55", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AMAT", 
+        "Name":"Applied Materials - AMAT", 
+        "Price":"113.16", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AMCR", 
+        "Name":"Amcor - AMCR", 
+        "Price":"11.02", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AMD", 
+        "Name":"Advanced Micro Devices - AMD", 
+        "Price":"92.33", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AME", 
+        "Name":"AMETEK - AME", 
+        "Price":"138.53", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AMGN", 
+        "Name":"Amgen - AMGN", 
+        "Price":"249.5", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AMP", 
+        "Name":"Ameriprise Financial - AMP", 
+        "Price":"304.96", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AMT", 
+        "Name":"American Tower - AMT", 
+        "Price":"211.26", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AMZN", 
+        "Name":"Amazon.com - AMZN", 
+        "Price":"97.83", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ANET", 
+        "Name":"Arista Networks - ANET", 
+        "Price":"161.41", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ANSS", 
+        "Name":"ANSYS - ANSS", 
+        "Price":"316.49", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AON", 
+        "Name":"Aon - AON", 
+        "Price":"321.76", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AOS", 
+        "Name":"A. O. Smith - AOS", 
+        "Price":"66.02", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"APA", 
+        "Name":"APA - APA", 
+        "Price":"39.64", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"APD", 
+        "Name":"Air Products and Chemicals - APD", 
+        "Price":"287.17", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"APH", 
+        "Name":"Amphenol - APH", 
+        "Price":"78.11", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"APTV", 
+        "Name":"Aptiv - APTV", 
+        "Price":"104.19", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ARE", 
+        "Name":"Alexandria Real Estate Equities - ARE", 
+        "Price":"121.52", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ATO", 
+        "Name":"Atmos Energy - ATO", 
+        "Price":"115.9", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ATVI", 
+        "Name":"Activision Blizzard - ATVI", 
+        "Price":"84.95", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AVB", 
+        "Name":"AvalonBay Communities - AVB", 
+        "Price":"170.09", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AVGO", 
+        "Name":"Broadcom - AVGO", 
+        "Price":"616.7", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AVY", 
+        "Name":"Avery Dennison - AVY", 
+        "Price":"177.19", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AWK", 
+        "Name":"American Water Works - AWK", 
+        "Price":"150.82", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AXP", 
+        "Name":"American Express - AXP", 
+        "Price":"159.29", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"AZO", 
+        "Name":"AutoZone - AZO", 
+        "Price":"2598.89", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BAC", 
+        "Name":"Bank of America - BAC", 
+        "Price":"28.48", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BA", 
+        "Name":"Boeing - BA", 
+        "Price":"212.34", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BALL", 
+        "Name":"Ball - BALL", 
+        "Price":"50.75", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BAX", 
+        "Name":"Baxter International - BAX", 
+        "Price":"42.67", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BBWI", 
+        "Name":"Bath & Body Works, Inc. - BBWI", 
+        "Price":"36.37", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BBY", 
+        "Name":"Best Buy - BBY", 
+        "Price":"73.17", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BDX", 
+        "Name":"Becton, Dickinson and Company - BDX", 
+        "Price":"253.85", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BEN", 
+        "Name":"Franklin Resources - BEN", 
+        "Price":"26.42", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BF.B", 
+        "Name":"BrownForman - BF.B", 
+        "Price":"62.56", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BIIB", 
+        "Name":"Biogen - BIIB", 
+        "Price":"285.79", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BIO", 
+        "Name":"BioRad Laboratories - BIO", 
+        "Price":"476.83", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BK", 
+        "Name":"The Bank of New York Mellon - BK", 
+        "Price":"45.83", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BKNG", 
+        "Name":"Booking Holdings - BKNG", 
+        "Price":"2547.25", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BKR", 
+        "Name":"Baker Hughes - BKR", 
+        "Price":"29.25", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BLK", 
+        "Name":"BlackRock - BLK", 
+        "Price":"665.97", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BMY", 
+        "Name":"Bristol Myers Squibb - BMY", 
+        "Price":"70.21", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BR", 
+        "Name":"Broadridge Financial Solutions - BR", 
+        "Price":"145.53", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BRK.B", 
+        "Name":"Berkshire Hathaway - BRK.B", 
+        "Price":"314.55", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BRO", 
+        "Name":"Brown & Brown - BRO", 
+        "Price":"58.48", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BSX", 
+        "Name":"Boston Scientific - BSX", 
+        "Price":"51.11", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BWA", 
+        "Name":"BorgWarner - BWA", 
+        "Price":"48.07", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"BXP", 
+        "Name":"Boston Properties - BXP", 
+        "Price":"51.58", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CAG", 
+        "Name":"Conagra Brands - CAG", 
+        "Price":"37.62", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CAH", 
+        "Name":"Cardinal Health - CAH", 
+        "Price":"79.15", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CARR", 
+        "Name":"Carrier Global - CARR", 
+        "Price":"43.86", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CAT", 
+        "Name":"Caterpillar - CAT", 
+        "Price":"220.5", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CB", 
+        "Name":"Chubb Limited - CB", 
+        "Price":"199.23", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CBOE", 
+        "Name":"Cboe Global Markets - CBOE", 
+        "Price":"134.52", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CBRE", 
+        "Name":"CBRE Group - CBRE", 
+        "Price":"69.84", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CCI", 
+        "Name":"Crown Castle Inc. - CCI", 
+        "Price":"133.75", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CCL", 
+        "Name":"Carnival - CCL", 
+        "Price":"9.62", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"C", 
+        "Name":"Citigroup - C", 
+        "Price":"46.92", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CDAY", 
+        "Name":"Ceridian HCM - CDAY", 
+        "Price":"66.52", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CDNS", 
+        "Name":"Cadence Design Systems - CDNS", 
+        "Price":"212.18", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CDW", 
+        "Name":"CDW - CDW", 
+        "Price":"188.09", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CE", 
+        "Name":"Celanese - CE", 
+        "Price":"109.66", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CEG", 
+        "Name":"Constellation Energy Corporation - CEG", 
+        "Price":"76.81", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CF", 
+        "Name":"CF Industries - CF", 
+        "Price":"77.06", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CFG", 
+        "Name":"Citizens Financial Group - CFG", 
+        "Price":"29.38", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CHD", 
+        "Name":"Church & Dwight Co. - CHD", 
+        "Price":"89.76", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CHRW", 
+        "Name":"C.H. Robinson Worldwide - CHRW", 
+        "Price":"94.73", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CHTR", 
+        "Name":"Charter Communications - CHTR", 
+        "Price":"343.28", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CI", 
+        "Name":"Cigna Group - CI", 
+        "Price":"260.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CINF", 
+        "Name":"Cincinnati Financial - CINF", 
+        "Price":"110.43", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CL", 
+        "Name":"ColgatePalmolive - CL", 
+        "Price":"76.05", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CLX", 
+        "Name":"Clorox - CLX", 
+        "Price":"157.23", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CMA", 
+        "Name":"Comerica - CMA", 
+        "Price":"43.11", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CMCSA", 
+        "Name":"Comcast - CMCSA", 
+        "Price":"37.64", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CME", 
+        "Name":"CME Group - CME", 
+        "Price":"191.74", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CMG", 
+        "Name":"Chipotle Mexican Grill - CMG", 
+        "Price":"1695.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CMI", 
+        "Name":"Cummins - CMI", 
+        "Price":"232.82", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CMS", 
+        "Name":"CMS Energy - CMS", 
+        "Price":"61.44", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CNC", 
+        "Name":"Centene - CNC", 
+        "Price":"67.18", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CNP", 
+        "Name":"CenterPoint Energy - CNP", 
+        "Price":"30.67", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"COF", 
+        "Name":"Capital One Financial - COF", 
+        "Price":"95.69", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"COO", 
+        "Name":"The Cooper Companies - COO", 
+        "Price":"372.88", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"COP", 
+        "Name":"ConocoPhillips - COP", 
+        "Price":"107.53", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"COST", 
+        "Name":"Costco Wholesale - COST", 
+        "Price":"489.35", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CPB", 
+        "Name":"Campbell Soup - CPB", 
+        "Price":"55.36", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CPRT", 
+        "Name":"Copart - CPRT", 
+        "Price":"76.14", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CPT", 
+        "Name":"Camden Property Trust - CPT", 
+        "Price":"103.91", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CRL", 
+        "Name":"Charles River Laboratories International - CRL", 
+        "Price":"201.47", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CRM", 
+        "Name":"Salesforce - CRM", 
+        "Price":"190.32", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CSCO", 
+        "Name":"Cisco Systems - CSCO", 
+        "Price":"50.11", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CSGP", 
+        "Name":"CoStar Group - CSGP", 
+        "Price":"68.59", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CSX", 
+        "Name":"CSX - CSX", 
+        "Price":"30.16", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CTAS", 
+        "Name":"Cintas - CTAS", 
+        "Price":"453.94", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CTLT", 
+        "Name":"Catalent - CTLT", 
+        "Price":"64.25", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CTRA", 
+        "Name":"Coterra Energy - CTRA", 
+        "Price":"25.76", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CTSH", 
+        "Name":"Cognizant Technology Solutions - CTSH", 
+        "Price":"60.28", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CTVA", 
+        "Name":"Corteva - CTVA", 
+        "Price":"61.79", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CVS", 
+        "Name":"CVS Health - CVS", 
+        "Price":"74.92", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CVX", 
+        "Name":"Chevron - CVX", 
+        "Price":"169.82", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"CZR", 
+        "Name":"Caesars Entertainment - CZR", 
+        "Price":"44.12", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DAL", 
+        "Name":"Delta Air Lines - DAL", 
+        "Price":"33.74", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"D", 
+        "Name":"Dominion Energy - D", 
+        "Price":"57.89", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DD", 
+        "Name":"DuPont de Nemours - DD", 
+        "Price":"70.83", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DE", 
+        "Name":"Deere & Company - DE", 
+        "Price":"384.39", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DFS", 
+        "Name":"Discover Financial Services - DFS", 
+        "Price":"99.15", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DG", 
+        "Name":"Dollar General - DG", 
+        "Price":"216.24", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DGX", 
+        "Name":"Quest Diagnostics - DGX", 
+        "Price":"142.47", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DHI", 
+        "Name":"D.R. Horton - DHI", 
+        "Price":"98.86", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DHR", 
+        "Name":"Danaher - DHR", 
+        "Price":"249.97", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DIS", 
+        "Name":"Disney - DIS", 
+        "Price":"97.94", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DISH", 
+        "Name":"DISH Network - DISH", 
+        "Price":"8.08", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DLR", 
+        "Name":"Digital Realty Trust - DLR", 
+        "Price":"92.8", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DLTR", 
+        "Name":"Dollar Tree - DLTR", 
+        "Price":"150.17", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DOV", 
+        "Name":"Dover - DOV", 
+        "Price":"147.12", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DOW", 
+        "Name":"Dow - DOW", 
+        "Price":"56.89", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DPZ", 
+        "Name":"Domino's Pizza - DPZ", 
+        "Price":"326.44", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DRI", 
+        "Name":"Darden Restaurants - DRI", 
+        "Price":"151.74", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DTE", 
+        "Name":"DTE Energy - DTE", 
+        "Price":"113.72", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DUK", 
+        "Name":"Duke Energy - DUK", 
+        "Price":"99.41", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DVA", 
+        "Name":"DaVita - DVA", 
+        "Price":"83.29", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DVN", 
+        "Name":"Devon Energy - DVN", 
+        "Price":"54.54", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DXC", 
+        "Name":"DXC Technology - DXC", 
+        "Price":"25.03", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"DXCM", 
+        "Name":"DexCom - DXCM", 
+        "Price":"114.82", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EA", 
+        "Name":"Electronic Arts - EA", 
+        "Price":"126.13", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EBAY", 
+        "Name":"eBay - EBAY", 
+        "Price":"42.78", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ECL", 
+        "Name":"Ecolab - ECL", 
+        "Price":"164.25", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ED", 
+        "Name":"Consolidated Edison - ED", 
+        "Price":"98.69", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EFX", 
+        "Name":"Equifax - EFX", 
+        "Price":"195.59", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EIX", 
+        "Name":"Edison International - EIX", 
+        "Price":"73.07", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EL", 
+        "Name":"The Estee Lauder Companies - EL", 
+        "Price":"247.05", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ELV", 
+        "Name":"Elevance Health, Inc. - ELV", 
+        "Price":"492.99", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EMN", 
+        "Name":"Eastman Chemical - EMN", 
+        "Price":"83.01", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EMR", 
+        "Name":"Emerson Electric Co. - EMR", 
+        "Price":"83.64", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ENPH", 
+        "Name":"Enphase Energy - ENPH", 
+        "Price":"196.03", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EOG", 
+        "Name":"EOG Resources - EOG", 
+        "Price":"122.31", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EPAM", 
+        "Name":"EPAM Systems - EPAM", 
+        "Price":"289.99", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EQIX", 
+        "Name":"Equinix - EQIX", 
+        "Price":"711.04", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EQR", 
+        "Name":"Equity Residential - EQR", 
+        "Price":"59.81", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EQT", 
+        "Name":"EQT - EQT", 
+        "Price":"32.65", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ES", 
+        "Name":"Eversource Energy - ES", 
+        "Price":"79.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ESS", 
+        "Name":"Essex Property Trust - ESS", 
+        "Price":"211.02", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ETN", 
+        "Name":"Eaton - ETN", 
+        "Price":"162.22", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ETR", 
+        "Name":"Entergy - ETR", 
+        "Price":"110.08", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ETSY", 
+        "Name":"Etsy - ETSY", 
+        "Price":"100.16", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EVRG", 
+        "Name":"Evergy - EVRG", 
+        "Price":"62.1", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EW", 
+        "Name":"Edwards Lifesciences - EW", 
+        "Price":"82.92", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EXC", 
+        "Name":"Exelon - EXC", 
+        "Price":"43.08", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EXPD", 
+        "Name":"Expeditors International of Washington - EXPD", 
+        "Price":"109.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EXPE", 
+        "Name":"Expedia Group - EXPE", 
+        "Price":"89.34", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"EXR", 
+        "Name":"Extra Space Storage - EXR", 
+        "Price":"163.42", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FANG", 
+        "Name":"Diamondback Energy - FANG", 
+        "Price":"145.01", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FAST", 
+        "Name":"Fastenal - FAST", 
+        "Price":"52.56", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FCX", 
+        "Name":"FreeportMcMoRan - FCX", 
+        "Price":"41.12", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"F", 
+        "Name":"Ford Motor - F", 
+        "Price":"12.67", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FDS", 
+        "Name":"FactSet Research Systems - FDS", 
+        "Price":"411.72", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FDX", 
+        "Name":"FedEx - FDX", 
+        "Price":"229.47", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FE", 
+        "Name":"FirstEnergy - FE", 
+        "Price":"41.46", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FFIV", 
+        "Name":"F5 - FFIV", 
+        "Price":"144.25", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FIS", 
+        "Name":"Fidelity National Information Services - FIS", 
+        "Price":"55.31", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FISV", 
+        "Name":"Fiserv - FISV", 
+        "Price":"114.49", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FITB", 
+        "Name":"Fifth Third Bancorp - FITB", 
+        "Price":"26.39", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FLT", 
+        "Name":"FleetCor Technologies - FLT", 
+        "Price":"213.99", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FMC", 
+        "Name":"FMC - FMC", 
+        "Price":"122.5", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FOXA", 
+        "Name":"Fox - FOXA", 
+        "Price":"33.73", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FOX", 
+        "Name":"Fox - FOX", 
+        "Price":"31.01", 
+        "Rank":"No Rank" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FRC", 
+        "Name":"First Republic Bank - FRC", 
+        "Price":"13.82", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FRT", 
+        "Name":"Federal Realty Investment Trust - FRT", 
+        "Price":"97.03", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FSLR", 
+        "Name":"First Solar - FSLR", 
+        "Price":"207.89", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FTNT", 
+        "Name":"Fortinet - FTNT", 
+        "Price":"67.19", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"FTV", 
+        "Name":"Fortive - FTV", 
+        "Price":"66.83", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GD", 
+        "Name":"General Dynamics - GD", 
+        "Price":"229.24", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GE", 
+        "Name":"General Electric - GE", 
+        "Price":"94.1", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GEHC", 
+        "Name":"GE HealthCare Technologies Inc. - GEHC", 
+        "Price":"81.75", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GEN", 
+        "Name":"GEN DIGITAL INC - GEN", 
+        "Price":"17.61", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GILD", 
+        "Name":"Gilead Sciences - GILD", 
+        "Price":"82.16", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GIS", 
+        "Name":"General Mills - GIS", 
+        "Price":"87.01", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GL", 
+        "Name":"Globe Life - GL", 
+        "Price":"107.33", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GLW", 
+        "Name":"Corning - GLW", 
+        "Price":"34.74", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GM", 
+        "Name":"General Motors - GM", 
+        "Price":"34.62", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GNRC", 
+        "Name":"Generac Holdings - GNRC", 
+        "Price":"100.14", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GOOG", 
+        "Name":"Alphabet - GOOG", 
+        "Price":"105.22", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GOOGL", 
+        "Name":"Alphabet - GOOGL", 
+        "Price":"104.64", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GPC", 
+        "Name":"Genuine Parts - GPC", 
+        "Price":"166.62", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GPN", 
+        "Name":"Global Payments - GPN", 
+        "Price":"105.21", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GRMN", 
+        "Name":"Garmin - GRMN", 
+        "Price":"98.28", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GS", 
+        "Name":"The Goldman Sachs Group - GS", 
+        "Price":"330.24", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"GWW", 
+        "Name":"W.W. Grainger - GWW", 
+        "Price":"655.38", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HAL", 
+        "Name":"Halliburton - HAL", 
+        "Price":"33.59", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HAS", 
+        "Name":"Hasbro - HAS", 
+        "Price":"51.3", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HBAN", 
+        "Name":"Huntington Bancshares - HBAN", 
+        "Price":"11.32", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HCA", 
+        "Name":"HCA Healthcare - HCA", 
+        "Price":"272.38", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HD", 
+        "Name":"Home Depot - HD", 
+        "Price":"290.44", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HES", 
+        "Name":"Hess - HES", 
+        "Price":"146.17", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HIG", 
+        "Name":"The Hartford Financial Services Group - HIG", 
+        "Price":"70.84", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HII", 
+        "Name":"Huntington Ingalls Industries - HII", 
+        "Price":"210.53", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HLT", 
+        "Name":"Hilton Worldwide - HLT", 
+        "Price":"138.36", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HOLX", 
+        "Name":"Hologic - HOLX", 
+        "Price":"83.73", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HON", 
+        "Name":"Honeywell International - HON", 
+        "Price":"193.23", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HPE", 
+        "Name":"Hewlett Packard - HPE", 
+        "Price":"15.98", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HPQ", 
+        "Name":"HP - HPQ", 
+        "Price":"29.66", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HRL", 
+        "Name":"Hormel Foods - HRL", 
+        "Price":"40.22", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HSIC", 
+        "Name":"Henry Schein - HSIC", 
+        "Price":"82.17", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HST", 
+        "Name":"Host Hotels & Resorts - HST", 
+        "Price":"16.11", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HSY", 
+        "Name":"Hershey - HSY", 
+        "Price":"258.61", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HUM", 
+        "Name":"Humana - HUM", 
+        "Price":"532.05", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"HWM", 
+        "Name":"Howmet Aerospace - HWM", 
+        "Price":"43.41", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IBM", 
+        "Name":"International Business Machines - IBM", 
+        "Price":"128.54", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ICE", 
+        "Name":"Intercontinental Exchange - ICE", 
+        "Price":"107.09", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IDXX", 
+        "Name":"IDEXX Laboratories - IDXX", 
+        "Price":"470.9", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IEX", 
+        "Name":"IDEX - IEX", 
+        "Price":"221.86", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IFF", 
+        "Name":"International Flavors & Fragrances - IFF", 
+        "Price":"92.55", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ILMN", 
+        "Name":"Illumina - ILMN", 
+        "Price":"226.88", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"INCY", 
+        "Name":"Incyte - INCY", 
+        "Price":"73.94", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"INTC", 
+        "Name":"Intel - INTC", 
+        "Price":"32.02", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"INTU", 
+        "Name":"Intuit - INTU", 
+        "Price":"435.09", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"INVH", 
+        "Name":"Invitation Home - INVH", 
+        "Price":"31.96", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IP", 
+        "Name":"International Paper - IP", 
+        "Price":"36.47", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IPG", 
+        "Name":"The Interpublic Group of Companies - IPG", 
+        "Price":"37.45", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IQV", 
+        "Name":"IQVIA - IQV", 
+        "Price":"197.99", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IR", 
+        "Name":"Ingersoll Rand - IR", 
+        "Price":"56.42", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IRM", 
+        "Name":"Iron Mountain - IRM", 
+        "Price":"54.15", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ISRG", 
+        "Name":"Intuitive Surgical - ISRG", 
+        "Price":"261.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IT", 
+        "Name":"Gartner - IT", 
+        "Price":"320.25", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ITW", 
+        "Name":"Illinois Tool Works - ITW", 
+        "Price":"232.35", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"IVZ", 
+        "Name":"Invesco - IVZ", 
+        "Price":"16.13", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"JBHT", 
+        "Name":"J.B. Hunt Transport Services - JBHT", 
+        "Price":"175.47", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"JCI", 
+        "Name":"Johnson Controls International - JCI", 
+        "Price":"57.37", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"J", 
+        "Name":"JACOBS SOLUTNS - J", 
+        "Price":"114.35", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"JKHY", 
+        "Name":"Jack Henry & Associates - JKHY", 
+        "Price":"151.61", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"JNJ", 
+        "Name":"Johnson & Johnson - JNJ", 
+        "Price":"163.92", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"JNPR", 
+        "Name":"Juniper Networks - JNPR", 
+        "Price":"33.76", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"JPM", 
+        "Name":"JPMorgan Chase & Co. - JPM", 
+        "Price":"128.5", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"K", 
+        "Name":"Kellogg's - K", 
+        "Price":"68.37", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KDP", 
+        "Name":"Keurig Dr Pepper - KDP", 
+        "Price":"35.21", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KEY", 
+        "Name":"KeyCorp - KEY", 
+        "Price":"12.05", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KEYS", 
+        "Name":"Keysight Technologies - KEYS", 
+        "Price":"157.69", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KHC", 
+        "Name":"Kraft Heinz Company - KHC", 
+        "Price":"39.28", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KIM", 
+        "Name":"Kimco Realty - KIM", 
+        "Price":"18.97", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KLAC", 
+        "Name":"KLA - KLAC", 
+        "Price":"370.14", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KMB", 
+        "Name":"KimberlyClark - KMB", 
+        "Price":"136.73", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KMI", 
+        "Name":"Kinder Morgan - KMI", 
+        "Price":"17.82", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KMX", 
+        "Name":"CarMax - KMX", 
+        "Price":"68.58", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KO", 
+        "Name":"Coca-Cola - KO", 
+        "Price":"62.69", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"KR", 
+        "Name":"The Kroger Co. - KR", 
+        "Price":"47.32", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"L", 
+        "Name":"Loews - L", 
+        "Price":"56.59", 
+        "Rank":"No Rank" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LDOS", 
+        "Name":"Leidos - LDOS", 
+        "Price":"92.68", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LEN", 
+        "Name":"Lennar - LEN", 
+        "Price":"105.39", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LH", 
+        "Name":"Laboratory Corp. of America - LH", 
+        "Price":"230.3", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LHX", 
+        "Name":"L3Harris Technologies - LHX", 
+        "Price":"199.62", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LIN", 
+        "Name":"Linde PLC - LIN", 
+        "Price":"359.35", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LKQ", 
+        "Name":"LKQ - LKQ", 
+        "Price":"56.31", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LLY", 
+        "Name":"Eli Lilly - LLY", 
+        "Price":"369.05", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LMT", 
+        "Name":"Lockheed Martin - LMT", 
+        "Price":"488.1", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LNC", 
+        "Name":"Lincoln National - LNC", 
+        "Price":"20.63", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LNT", 
+        "Name":"Alliant Energy - LNT", 
+        "Price":"54.74", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LOW", 
+        "Name":"Lowe's Companies - LOW", 
+        "Price":"199.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LRCX", 
+        "Name":"Lam Research - LRCX", 
+        "Price":"497.07", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LUMN", 
+        "Name":"Lumen Technologies - LUMN", 
+        "Price":"2.46", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LUV", 
+        "Name":"Southwest Airlines - LUV", 
+        "Price":"32.24", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LVS", 
+        "Name":"Las Vegas Sands - LVS", 
+        "Price":"55.88", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LW", 
+        "Name":"Lamb Weston - LW", 
+        "Price":"108.17", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LYB", 
+        "Name":"LyondellBasell Industries - LYB", 
+        "Price":"97.21", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"LYV", 
+        "Name":"Live Nation Entertainment - LYV", 
+        "Price":"69.9", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MAA", 
+        "Name":"MidAmerica Apartment Communities - MAA", 
+        "Price":"149.15", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MA", 
+        "Name":"Mastercard - MA", 
+        "Price":"361.78", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MAR", 
+        "Name":"Marriott International - MAR", 
+        "Price":"161.47", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MAS", 
+        "Name":"Masco - MAS", 
+        "Price":"48.39", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MCD", 
+        "Name":"McDonald's - MCD", 
+        "Price":"285.3", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MCHP", 
+        "Name":"Microchip Technology - MCHP", 
+        "Price":"79.23", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MCK", 
+        "Name":"McKesson - MCK", 
+        "Price":"362.56", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MCO", 
+        "Name":"Moody's - MCO", 
+        "Price":"298.18", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MDLZ", 
+        "Name":"Mondelez International - MDLZ", 
+        "Price":"70.21", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MDT", 
+        "Name":"Medtronic - MDT", 
+        "Price":"80.81", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"META", 
+        "Name":"Meta Platforms - META", 
+        "Price":"214.0", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MET", 
+        "Name":"MetLife - MET", 
+        "Price":"60.01", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MGM", 
+        "Name":"MGM Resorts International - MGM", 
+        "Price":"42.98", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MHK", 
+        "Name":"Mohawk Industries - MHK", 
+        "Price":"97.83", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MKC", 
+        "Name":"McCormick & Company - MKC", 
+        "Price":"85.89", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MKTX", 
+        "Name":"MarketAxess - MKTX", 
+        "Price":"337.59", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MLM", 
+        "Name":"Martin Marietta Materials - MLM", 
+        "Price":"346.06", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MMC", 
+        "Name":"Marsh & McLennan Companies - MMC", 
+        "Price":"170.08", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MMM", 
+        "Name":"3M - MMM", 
+        "Price":"104.37", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MNST", 
+        "Name":"Monster Beverage - MNST", 
+        "Price":"52.47", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MO", 
+        "Name":"Altria Group - MO", 
+        "Price":"44.83", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MOH", 
+        "Name":"Molina Healthcare - MOH", 
+        "Price":"296.05", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MOS", 
+        "Name":"The Mosaic Company - MOS", 
+        "Price":"46.76", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MPC", 
+        "Name":"Marathon Petroleum - MPC", 
+        "Price":"130.22", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MPWR", 
+        "Name":"Monolithic Power Systems - MPWR", 
+        "Price":"465.89", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MRK", 
+        "Name":"Merck & Co. - MRK", 
+        "Price":"113.75", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MRNA", 
+        "Name":"Moderna - MRNA", 
+        "Price":"155.56", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MRO", 
+        "Name":"Marathon Oil - MRO", 
+        "Price":"25.62", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MSCI", 
+        "Name":"MSCI - MSCI", 
+        "Price":"530.83", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MS", 
+        "Name":"Morgan Stanley - MS", 
+        "Price":"85.47", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MSFT", 
+        "Name":"Microsoft - MSFT", 
+        "Price":"283.49", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MSI", 
+        "Name":"Motorola Solutions - MSI", 
+        "Price":"285.72", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MTB", 
+        "Name":"M&T Bank - MTB", 
+        "Price":"116.34", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MTCH", 
+        "Name":"Match Group - MTCH", 
+        "Price":"34.38", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MTD", 
+        "Name":"MettlerToledo International - MTD", 
+        "Price":"1533.44", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"MU", 
+        "Name":"Micron Technology - MU", 
+        "Price":"61.96", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NCLH", 
+        "Name":"Norwegian Cruise Line - NCLH", 
+        "Price":"12.73", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NDAQ", 
+        "Name":"Nasdaq - NDAQ", 
+        "Price":"54.89", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NDSN", 
+        "Name":"Nordson - NDSN", 
+        "Price":"216.77", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NEE", 
+        "Name":"NextEra Energy - NEE", 
+        "Price":"78.59", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NEM", 
+        "Name":"Newmont - NEM", 
+        "Price":"49.71", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NFLX", 
+        "Name":"Netflix - NFLX", 
+        "Price":"331.03", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NI", 
+        "Name":"NiSource - NI", 
+        "Price":"28.66", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NKE", 
+        "Name":"NIKE - NKE", 
+        "Price":"123.66", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NOC", 
+        "Name":"Northrop Grumman - NOC", 
+        "Price":"472.77", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NOW", 
+        "Name":"ServiceNow - NOW", 
+        "Price":"471.43", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NRG", 
+        "Name":"NRG Energy - NRG", 
+        "Price":"35.76", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NSC", 
+        "Name":"Norfolk Southern - NSC", 
+        "Price":"206.32", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NTAP", 
+        "Name":"NetApp - NTAP", 
+        "Price":"66.4", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NTRS", 
+        "Name":"Northern Trust - NTRS", 
+        "Price":"88.91", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NUE", 
+        "Name":"Nucor - NUE", 
+        "Price":"147.66", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NVDA", 
+        "Name":"NVIDIA - NVDA", 
+        "Price":"264.95", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NVR", 
+        "Name":"NVR - NVR", 
+        "Price":"5590.22", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NWL", 
+        "Name":"Newell Brands - NWL", 
+        "Price":"12.21", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NWSA", 
+        "Name":"News Corporation - NWSA", 
+        "Price":"17.3", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NWS", 
+        "Name":"News Corporation - NWS", 
+        "Price":"17.47", 
+        "Rank":"No Rank" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"NXPI", 
+        "Name":"NXP Semiconductors - NXPI", 
+        "Price":"170.22", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"O", 
+        "Name":"Realty Income - O", 
+        "Price":"61.92", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ODFL", 
+        "Name":"Old Dominion Freight Line - ODFL", 
+        "Price":"340.06", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"OGN", 
+        "Name":"Organon & Co. - OGN", 
+        "Price":"23.61", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"OKE", 
+        "Name":"ONEOK - OKE", 
+        "Price":"66.25", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"OMC", 
+        "Name":"Omnicom Group - OMC", 
+        "Price":"93.59", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ON", 
+        "Name":"ON Semiconductor - ON", 
+        "Price":"76.46", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ORCL", 
+        "Name":"Oracle - ORCL", 
+        "Price":"93.9", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ORLY", 
+        "Name":"O'Reilly Automotive - ORLY", 
+        "Price":"877.35", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"OTIS", 
+        "Name":"Otis Worldwide - OTIS", 
+        "Price":"80.73", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"OXY", 
+        "Name":"Occidental Petroleum - OXY", 
+        "Price":"64.84", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PARA", 
+        "Name":"PARAMOUNT GLBL - PARA", 
+        "Price":"22.13", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PAYC", 
+        "Name":"Paycom Software - PAYC", 
+        "Price":"294.21", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PAYX", 
+        "Name":"Paychex - PAYX", 
+        "Price":"108.41", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PCAR", 
+        "Name":"PACCAR - PCAR", 
+        "Price":"72.11", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PCG", 
+        "Name":"PG&E - PCG", 
+        "Price":"16.96", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PEAK", 
+        "Name":"Healthpeak Properties - PEAK", 
+        "Price":"21.53", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PEG", 
+        "Name":"Public Service Enterprise Group - PEG", 
+        "Price":"63.59", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PEP", 
+        "Name":"PepsiCo - PEP", 
+        "Price":"182.56", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PFE", 
+        "Name":"Pfizer - PFE", 
+        "Price":"41.37", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PFG", 
+        "Name":"Principal Financial Group - PFG", 
+        "Price":"75.33", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PG", 
+        "Name":"Procter & Gamble - PG", 
+        "Price":"151.07", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PGR", 
+        "Name":"The Progressive - PGR", 
+        "Price":"148.15", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PH", 
+        "Name":"ParkerHannifin - PH", 
+        "Price":"324.52", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PHM", 
+        "Name":"PulteGroup - PHM", 
+        "Price":"59.75", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PKG", 
+        "Name":"Packaging Corporation of America - PKG", 
+        "Price":"142.19", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PKI", 
+        "Name":"PerkinElmer - PKI", 
+        "Price":"134.34", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PLD", 
+        "Name":"Prologis - PLD", 
+        "Price":"122.81", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PM", 
+        "Name":"Philip Morris International - PM", 
+        "Price":"98.79", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PNC", 
+        "Name":"The PNC Financial Services Group - PNC", 
+        "Price":"119.7", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PNR", 
+        "Name":"Pentair - PNR", 
+        "Price":"53.17", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PNW", 
+        "Name":"Pinnacle West Capital - PNW", 
+        "Price":"79.83", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"POOL", 
+        "Name":"Pool Corp. - POOL", 
+        "Price":"333.9", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PPG", 
+        "Name":"PPG Industries - PPG", 
+        "Price":"138.01", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PPL", 
+        "Name":"PPL - PPL", 
+        "Price":"28.66", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PRU", 
+        "Name":"Prudential Financial - PRU", 
+        "Price":"84.84", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PSA", 
+        "Name":"Public Storage - PSA", 
+        "Price":"313.15", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PSX", 
+        "Name":"Phillips 66 - PSX", 
+        "Price":"106.03", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PTC", 
+        "Name":"PTC - PTC", 
+        "Price":"126.39", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PWR", 
+        "Name":"Quanta Services - PWR", 
+        "Price":"165.0", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PXD", 
+        "Name":"Pioneer Natural Resources - PXD", 
+        "Price":"225.1", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"PYPL", 
+        "Name":"PayPal - PYPL", 
+        "Price":"73.5", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"QCOM", 
+        "Name":"Qualcomm - QCOM", 
+        "Price":"120.27", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"QRVO", 
+        "Name":"Qorvo - QRVO", 
+        "Price":"93.52", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RCL", 
+        "Name":"Royal Caribbean Cruises - RCL", 
+        "Price":"61.58", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RE", 
+        "Name":"Everest Re Group - RE", 
+        "Price":"365.6", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"REG", 
+        "Name":"Regency Centers - REG", 
+        "Price":"59.99", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"REGN", 
+        "Name":"Regeneron Pharmaceuticals - REGN", 
+        "Price":"820.43", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RF", 
+        "Name":"Regions Financial - RF", 
+        "Price":"18.33", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RHI", 
+        "Name":"Robert Half International - RHI", 
+        "Price":"73.94", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RJF", 
+        "Name":"Raymond James Financial - RJF", 
+        "Price":"92.08", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RL", 
+        "Name":"Ralph Lauren - RL", 
+        "Price":"118.25", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RMD", 
+        "Name":"ResMed - RMD", 
+        "Price":"222.18", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ROK", 
+        "Name":"Rockwell Automation - ROK", 
+        "Price":"281.12", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ROL", 
+        "Name":"Rollins - ROL", 
+        "Price":"39.17", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ROP", 
+        "Name":"Roper Technologies - ROP", 
+        "Price":"442.48", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ROST", 
+        "Name":"Ross Stores - ROST", 
+        "Price":"102.89", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RSG", 
+        "Name":"Republic Services - RSG", 
+        "Price":"136.98", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"RTX", 
+        "Name":"Raytheon Technologies - RTX", 
+        "Price":"101.52", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SBAC", 
+        "Name":"SBA Communications - SBAC", 
+        "Price":"261.67", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SBNY", 
+        "Name":"Signature Bank - SBNY", 
+        "Price":"0.15", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SBUX", 
+        "Name":"Starbucks - SBUX", 
+        "Price":"105.6", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SCHW", 
+        "Name":"Charles Schwab - SCHW", 
+        "Price":"51.92", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SEDG", 
+        "Name":"SolarEdge Technologies - SEDG", 
+        "Price":"284.96", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SEE", 
+        "Name":"Sealed Air - SEE", 
+        "Price":"46.21", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SHW", 
+        "Name":"SherwinWilliams - SHW", 
+        "Price":"225.78", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SIVB", 
+        "Name":"- SIVB", 
+        "Price":"0.0", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SJM", 
+        "Name":"The J. M. Smucker Co. - SJM", 
+        "Price":"154.31", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SLB", 
+        "Name":"Schlumberger - SLB", 
+        "Price":"51.98", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SNA", 
+        "Name":"SnapOn - SNA", 
+        "Price":"237.93", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SNPS", 
+        "Name":"Synopsys - SNPS", 
+        "Price":"376.52", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SO", 
+        "Name":"The Southern Company - SO", 
+        "Price":"72.12", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SPG", 
+        "Name":"Simon Property Group - SPG", 
+        "Price":"109.51", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SPGI", 
+        "Name":"S&P Global - SPGI", 
+        "Price":"342.79", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SRE", 
+        "Name":"Sempra Energy - SRE", 
+        "Price":"153.95", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"STE", 
+        "Name":"STERIS - STE", 
+        "Price":"193.51", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"STLD", 
+        "Name":"Steel Dynamics - STLD", 
+        "Price":"106.57", 
+        "Rank":"1-Strong Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"STT", 
+        "Name":"State Street - STT", 
+        "Price":"78.21", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"STX", 
+        "Name":"Seagate Technology - STX", 
+        "Price":"66.38", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"STZ", 
+        "Name":"Constellation Brands - STZ", 
+        "Price":"226.42", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SWK", 
+        "Name":"Stanley Black & Decker - SWK", 
+        "Price":"78.11", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SWKS", 
+        "Name":"Skyworks Solutions - SWKS", 
+        "Price":"107.89", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SYF", 
+        "Name":"Synchrony Financial - SYF", 
+        "Price":"29.53", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SYK", 
+        "Name":"Stryker - SYK", 
+        "Price":"290.1", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"SYY", 
+        "Name":"Sysco - SYY", 
+        "Price":"74.83", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TAP", 
+        "Name":"Molson Coors - TAP", 
+        "Price":"54.27", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"T", 
+        "Name":"AT&T - T", 
+        "Price":"19.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TDG", 
+        "Name":"Transdigm Group - TDG", 
+        "Price":"745.43", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TDY", 
+        "Name":"Teledyne Technologies - TDY", 
+        "Price":"439.37", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TECH", 
+        "Name":"BioTechne Corp - TECH", 
+        "Price":"81.22", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TEL", 
+        "Name":"TE Connectivity - TEL", 
+        "Price":"125.38", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TER", 
+        "Name":"Teradyne - TER", 
+        "Price":"101.48", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TFC", 
+        "Name":"Truist Financial - TFC", 
+        "Price":"33.21", 
+        "Rank":"5-Strong Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TFX", 
+        "Name":"Teleflex - TFX", 
+        "Price":"261.55", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TGT", 
+        "Name":"Target - TGT", 
+        "Price":"163.51", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TJX", 
+        "Name":"The TJX Companies - TJX", 
+        "Price":"76.7", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TMO", 
+        "Name":"Thermo Fisher Scientific - TMO", 
+        "Price":"579.35", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TMUS", 
+        "Name":"TMobile US - TMUS", 
+        "Price":"149.51", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TPR", 
+        "Name":"Tapestry - TPR", 
+        "Price":"41.29", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TRGP", 
+        "Name":"Targa Resources - TRGP", 
+        "Price":"76.12", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TRMB", 
+        "Name":"Trimble - TRMB", 
+        "Price":"49.11", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TROW", 
+        "Name":"T. Rowe Price - TROW", 
+        "Price":"110.41", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TRV", 
+        "Name":"The Travelers Companies - TRV", 
+        "Price":"173.84", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TSCO", 
+        "Name":"Tractor Supply Co. - TSCO", 
+        "Price":"232.64", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TSLA", 
+        "Name":"Tesla - TSLA", 
+        "Price":"180.54", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TSN", 
+        "Name":"Tyson Foods - TSN", 
+        "Price":"61.58", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TT", 
+        "Name":"Trane Technologies - TT", 
+        "Price":"174.9", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TTWO", 
+        "Name":"TakeTwo Interactive Software - TTWO", 
+        "Price":"119.68", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TXN", 
+        "Name":"Texas Instruments - TXN", 
+        "Price":"177.55", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TXT", 
+        "Name":"Textron - TXT", 
+        "Price":"67.67", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"TYL", 
+        "Name":"Tyler Technologies - TYL", 
+        "Price":"359.01", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"UAL", 
+        "Name":"United Airlines - UAL", 
+        "Price":"41.44", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"UDR", 
+        "Name":"United Dominion Realty Trust - UDR", 
+        "Price":"40.41", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"UHS", 
+        "Name":"Universal Health Services - UHS", 
+        "Price":"134.08", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ULTA", 
+        "Name":"Ulta Beauty - ULTA", 
+        "Price":"523.13", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"UNH", 
+        "Name":"UnitedHealth Group - UNH", 
+        "Price":"521.19", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"UNP", 
+        "Name":"Union Pacific - UNP", 
+        "Price":"198.73", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"UPS", 
+        "Name":"United Parcel Service - UPS", 
+        "Price":"189.85", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"URI", 
+        "Name":"United Rentals - URI", 
+        "Price":"376.07", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"USB", 
+        "Name":"U.S. Bancorp - USB", 
+        "Price":"35.4", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"V", 
+        "Name":"Visa - V", 
+        "Price":"227.81", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VFC", 
+        "Name":"V.F. Corporation - VFC", 
+        "Price":"21.57", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VICI", 
+        "Name":"VICI Properties - VICI", 
+        "Price":"32.8", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VLO", 
+        "Name":"Valero Energy - VLO", 
+        "Price":"133.72", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VMC", 
+        "Name":"Vulcan Materials - VMC", 
+        "Price":"167.32", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VRSK", 
+        "Name":"Verisk Analytics - VRSK", 
+        "Price":"192.17", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VRSN", 
+        "Name":"VeriSign - VRSN", 
+        "Price":"212.6", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VRTX", 
+        "Name":"Vertex Pharmaceuticals - VRTX", 
+        "Price":"326.37", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VTR", 
+        "Name":"Ventas - VTR", 
+        "Price":"44.29", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VTRS", 
+        "Name":"Viatris - VTRS", 
+        "Price":"9.82", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"VZ", 
+        "Name":"Verizon Communications - VZ", 
+        "Price":"39.2", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WAB", 
+        "Name":"Westinghouse Air Brake Technologies - WAB", 
+        "Price":"99.62", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WAT", 
+        "Name":"Waters - WAT", 
+        "Price":"303.27", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WBA", 
+        "Name":"Walgreens Boots Alliance - WBA", 
+        "Price":"35.69", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WBD", 
+        "Name":"Warner Bros. Discovery - WBD", 
+        "Price":"14.06", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WDC", 
+        "Name":"Western Digital - WDC", 
+        "Price":"38.0", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WEC", 
+        "Name":"WEC Energy Group - WEC", 
+        "Price":"98.15", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WELL", 
+        "Name":"Welltower - WELL", 
+        "Price":"74.63", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WFC", 
+        "Name":"Wells Fargo & Company - WFC", 
+        "Price":"39.19", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WHR", 
+        "Name":"Whirlpool - WHR", 
+        "Price":"133.95", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WMB", 
+        "Name":"The Williams Companies - WMB", 
+        "Price":"30.33", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WM", 
+        "Name":"Waste Management - WM", 
+        "Price":"165.5", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WMT", 
+        "Name":"Walmart - WMT", 
+        "Price":"149.34", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WRB", 
+        "Name":"W.R. Berkley - WRB", 
+        "Price":"62.84", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WRK", 
+        "Name":"WestRock - WRK", 
+        "Price":"30.18", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WST", 
+        "Name":"West Pharmaceutical Services - WST", 
+        "Price":"358.77", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WTW", 
+        "Name":"Willis Towers Watson - WTW", 
+        "Price":"237.2", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WY", 
+        "Name":"Weyerhaeuser - WY", 
+        "Price":"30.58", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"WYNN", 
+        "Name":"Wynn Resorts - WYNN", 
+        "Price":"106.06", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"XEL", 
+        "Name":"Xcel Energy - XEL", 
+        "Price":"71.04", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"XOM", 
+        "Name":"Exxon Mobil - XOM", 
+        "Price":"115.23", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"XRAY", 
+        "Name":"Dentsply Sirona - XRAY", 
+        "Price":"40.51", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"XYL", 
+        "Name":"Xylem - XYL", 
+        "Price":"103.49", 
+        "Rank":"4-Sell" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"YUM", 
+        "Name":"Yum Brands - YUM", 
+        "Price":"131.98", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ZBH", 
+        "Name":"Zimmer Biomet - ZBH", 
+        "Price":"131.59", 
+        "Rank":"2-Buy" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ZBRA", 
+        "Name":"Zebra Technologies - ZBRA", 
+        "Price":"301.41", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ZION", 
+        "Name":"Zions Bancorporation - ZION", 
+        "Price":"30.29", 
+        "Rank":"3-Hold" 
+      },
+      { 
+        "Date":"04/13/23", 
+        "Symbol":"ZTS", 
+        "Name":"Zoetis - ZTS", 
+        "Price":"171.45", 
+        "Rank":"3-Hold" 
+      }
+]
